@@ -10,8 +10,6 @@
 │   └── xxx.sh          
 └── flume-conf                -- flume Agent配置文件
     └── xxx.properties
-
-
 ```
 用户行为日志的采集模块架构为：
 
